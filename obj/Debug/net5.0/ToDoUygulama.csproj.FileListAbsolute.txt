@@ -1,0 +1,16 @@
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.exe
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.deps.json
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.runtimeconfig.json
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.runtimeconfig.dev.json
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.dll
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\bin\Debug\net5.0\ref\ToDoUygulama.dll
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.pdb
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.AssemblyInfo.cs
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.dll
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ref\ToDoUygulama.dll
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.pdb
+C:\Users\merve\Desktop\DOTNETCORE\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.genruntimeconfig.cache
